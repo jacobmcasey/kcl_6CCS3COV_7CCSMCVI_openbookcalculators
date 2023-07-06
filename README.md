@@ -14,7 +14,7 @@ Ensure you have [Python](https://www.python.org/downloads/) installed on your sy
 
 ## Usage
 
-Detailed instructions on how to use the scripts for different calculations.
+Detailed instructions on how to use the scripts for different calculations, check comments as they are all pretty easy to use!
 
 ## Features
 
